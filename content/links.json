@@ -197,6 +197,15 @@
       "description": "A Jekyll boilerplate supercharged with Webpack to build modern performant websites (including Progressive Web Apps)",
       "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate",
       "icon": "/images/logos/infinideas.png"
+    },
+    {
+      "url": "https://www.dafont.com/",
+      "name": "DaFont",
+      "icon": "/images/logos/detoxify.png",
+      "categories_slugs": [
+        "ucenje"
+      ],
+      "description": "1"
     }
   ]
 }
