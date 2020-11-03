@@ -19,10 +19,10 @@
       "back": "Back"
     },
     "footer": {
-      "contact": "Contact"
+      "contact": "Kontakt"
     }
   },
   "lunr-module": {
-    "placeholderText": "Search..."
+    "placeholderText": "Traži..."
   }
 }
