@@ -201,11 +201,11 @@
     {
       "url": "https://www.dafont.com/",
       "name": "DaFont",
-      "icon": "/images/logos/detoxify.png",
+      "icon": "/images/logos/dafont.png",
       "categories_slugs": [
         "ucenje"
       ],
-      "description": "1"
+      "description": "Arhiva fontova koji se mogu besplatno preuzeti. Pretražujte prema abecednom spisku, stilu, autoru ili popularnosti."
     }
   ]
 }
