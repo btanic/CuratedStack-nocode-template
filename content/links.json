@@ -197,26 +197,6 @@
       "description": "A Jekyll boilerplate supercharged with Webpack to build modern performant websites (including Progressive Web Apps)",
       "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate",
       "icon": "/images/logos/infinideas.png"
-    },
-    {
-      "categories_slugs": [
-        "open-source",
-        "productivity",
-        "design",
-        "finance",
-        "ideas",
-        "trends",
-        "communication",
-        "well-being",
-        "books",
-        "food",
-        "learning",
-        "cryptocurrency"
-      ],
-      "name": "Create your own Curated Directory now",
-      "description": "Get started with the CuratedStack (No-Code) Template",
-      "url": "https://github.com/sandoche/CuratedStack-nocode-template",
-      "icon": "/images/logos/icon.png"
     }
   ]
 }
